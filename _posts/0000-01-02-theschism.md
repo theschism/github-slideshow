@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+We have crossed the Rubecon
 Use the left arrow to go back!
